@@ -41,11 +41,11 @@ export const Tools = () => {
                         desc="React js"
                     />
                     <ToolsItem 
-                        src="https://camo.githubusercontent.com/b05ddbfbaa85c1b814c44a6853f95899cf7f7a0f68ed9d4de9ab8e8b60f5608a/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667"
+                        src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nextjs-icon.svg"
                         desc="Next js"
                     />
                     <ToolsItem 
-                        src="https://camo.githubusercontent.com/0568e2de313626b2bd9b96f326941b012d45e9a4db1a23aa78bd8036207e57f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"
+                        src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tailwindcss-icon.svg"
                         desc="Tailwind CSS"
                     />
                     <ToolsItem 
